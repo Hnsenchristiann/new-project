@@ -36,7 +36,7 @@
       <div id="title-section2" class="text-center" style="font-weight: bold; font-size: 200%; padding-top: 50px;">Explore Popular Product Categories</div>
       <div class="d-flex justify-content-center mt-1">
         <div style="font-size: 150%;" class="w-100">
-          <div style="clear:both;" class="row row-cols-4 px-3 w-100 row-cols-sm-6 text-center">
+          <div style="clear:both;" class="g-0 row row-cols-4 px-3 w-100 row-cols-sm-6 text-center">
             <div class="col">
               Item 1
             </div>
@@ -119,7 +119,7 @@
     <div class="h-auto bg-white text-black">
       <div id="title-section4" class="text-center" style="font-weight: bold; font-size: 200%; padding-top: 50px;">Discover More Products and Services</div>
       <div class="d-flex justify-content-center"> 
-        <div class="w-100 row row-cols-1 row-cols-sm-1 row-cols-md-2 text-center px-3">
+        <div class="w-100 g-0 row row-cols-1 row-cols-sm-1 row-cols-md-2 text-center px-3">
           <dashboard-card cardbackground="bg-warning rounded p-2" title="Best Price" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non mattis est Curabitur placerat ac nibh at ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam tempor mollis massa"/>
           <dashboard-card cardbackground="bg-danger rounded p-2" title="Best Price" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non mattis est Curabitur placerat ac nibh at ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam tempor mollis massa"/>
           <dashboard-card cardbackground="bg-info rounded p-2" title="Best Price" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non mattis est Curabitur placerat ac nibh at ultricies. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam tempor mollis massa"/>

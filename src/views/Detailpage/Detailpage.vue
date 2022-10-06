@@ -220,12 +220,31 @@
             <div class="text-center py-2">
                 <div id="related-products">RELATED PRODUCTS</div>
 
-                <div class="justify-content-center">
-                    <img alt="related-products1" class="w-100 h-100 px-2 py-1" src="https://picsum.photos/400/200" />
-                    <img alt="related-products2" class="w-100 h-100 px-2 py-1" src="https://picsum.photos/400/200" />
-                    <img alt="related-products3" class="w-100 h-100 px-2 py-1" src="https://picsum.photos/400/200" />
-                    <img alt="related-products4" class="w-100 h-100 px-2 py-1" src="https://picsum.photos/400/200" />
-                    <img alt="related-products5" class="w-100 h-100 px-2 py-1" src="https://picsum.photos/400/200" />
+                <div style="clear:both;" class="g-0 row row-cols-1 w-100 row-cols-sm-4 row-cols-lg-6 text-center">
+                    <div class="col">
+                        <img alt="related-products1" class="w-100 h-100 px-2 py-1" src="https://picsum.photos/400/200" />
+                    </div>
+                    <div class="col">
+                        <img alt="related-products1" class="w-100 h-100 px-2 py-1" src="https://picsum.photos/400/200" />
+                    </div>
+                    <div class="col">
+                        <img alt="related-products1" class="w-100 h-100 px-2 py-1" src="https://picsum.photos/400/200" />
+                    </div>
+                    <div class="col">
+                        <img alt="related-products1" class="w-100 h-100 px-2 py-1" src="https://picsum.photos/400/200" />
+                    </div>
+                    <div class="col">
+                        <img alt="related-products1" class="w-100 h-100 px-2 py-1" src="https://picsum.photos/400/200" />
+                    </div>
+                    <div class="col">
+                        <img alt="related-products1" class="w-100 h-100 px-2 py-1" src="https://picsum.photos/400/200" />
+                    </div>
+                    <div class="col">
+                        <img alt="related-products1" class="w-100 h-100 px-2 py-1" src="https://picsum.photos/400/200" />
+                    </div>
+                    <div class="col">
+                        <img alt="related-products1" class="w-100 h-100 px-2 py-1" src="https://picsum.photos/400/200" />
+                    </div>
                 </div>
             </div>
         </div>
