@@ -1,8 +1,8 @@
 import {flushPromises, mount } from '@vue/test-utils'
-import Loginpage from '../../src/views/Login/Loginpage.vue'
+import Login from '../../src/views/Login/Login.vue'
 
 test('loginpage', async () => {
-    const wrapper = mount(Loginpage, {})
+    const wrapper = mount(Login, {})
 
     const promises = [
         wrapper.find('input[name="email"]').setValue('email@email.com'),

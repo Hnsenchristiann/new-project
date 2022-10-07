@@ -1,8 +1,8 @@
 import {flushPromises, mount } from '@vue/test-utils'
-import Homepage from '../../src/views/Homepage/Homepage.vue'
+import Home from '../../src/views/Homepage/Home.vue'
 
 test('homepage', async () => {
-    const wrapper = mount(Homepage, {})
+    const wrapper = mount(Home, {})
     
     expect(wrapper.find('#title').text()).toBe('Professional Airplane')
     expect(wrapper.find('#page-num').text()).toBe('Page 1 of 456')

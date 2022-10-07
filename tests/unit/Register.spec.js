@@ -1,8 +1,8 @@
 import {flushPromises, mount } from '@vue/test-utils'
-import Registerpage from '../../src/views/Register/Registerpage.vue'
+import Register from '../../src/views/Register/Register.vue'
 
 test('registerpage', async () => {
-    const wrapper = mount(Registerpage, {})
+    const wrapper = mount(Register, {})
 
     const promises = [
         wrapper.find('input[name="username"]').setValue('testestest'),
